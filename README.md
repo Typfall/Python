@@ -1,2 +1,1 @@
-# Python
-Only PYTHON
+First programm, BASIC CALC
